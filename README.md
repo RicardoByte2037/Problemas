@@ -4,8 +4,8 @@
 Estudiante: Ricardo López Cruz (230110088)      
 Grupo: 2° "B"       
 
-Materia: Probabilidad y Estadística     
-Actividad: Evaluación correspondiente al tema No. 2 para el remedial        
+Materia: Probabilidad y Estadística.         
+Actividad: Evaluación correspondiente al tema No. 2 para el remedial.            
 
 Descripción:                
 
